@@ -1,0 +1,11 @@
+postgres://
+
+xzpiwslhuubqyr (usuario)
+:
+5fedb280d01d727abccba56519a2ce0b9dd52d77652b294b5c03047a35bf713a (senha)
+@
+ec2-52-4-104-184.compute-1.amazonaws.com (host)
+:
+5432
+/
+dhoq2d3uhlbvb(base)
